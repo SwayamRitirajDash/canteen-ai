@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  color-scheme: light;
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+body {
+  background-color: #f8faf8;
+  color: #143522;
+  min-height: 100vh;
+  transition: background-color 0.25s ease, color 0.25s ease;
+  -webkit-font-smoothing: antialiased;
+}
+
+.dark body,
+html.dark body {
+  background-color: #07130b;
+  color: #edf7f0;
+  background-image: 
+    radial-gradient(at 50% 0%, rgba(22, 101, 52, 0.25) 0px, transparent 60%),
+    radial-gradient(at 100% 100%, rgba(5, 46, 22, 0.4) 0px, transparent 60%);
+}
+
+/* Custom organic scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #1e3a29;
+}
+
+/* Typing animation dots */
+.typing-dot {
+  width: 5px;
+  height: 5px;
+  background-color: #15803d;
+  border-radius: 50%;
+  animation: typingBounce 1.4s infinite ease-in-out;
+}
+.dark .typing-dot {
+  background-color: #4ade80;
+}
+.typing-dot:nth-child(2) { animation-delay: 0.2s; }
+.typing-dot:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes typingBounce {
+  0%, 60%, 100% { transform: translateY(0); }
+  30% { transform: translateY(-6px); }
+}
+
+.font-outfit {
+  font-family: 'Outfit', sans-serif;
+}

@@ -1,0 +1,1586 @@
+{
+  "canteen_name": "Campus Canteen",
+  "last_updated": "2026-09-12",
+  "items": [
+    {
+      "id": "SI001",
+      "name": "Masala Dosa",
+      "category": "South Indian",
+      "price": 45,
+      "calories": 350,
+      "prep_time_mins": 8,
+      "dietary_tags": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "rice",
+        "lentils",
+        "potato",
+        "oil",
+        "spices"
+      ],
+      "mood_tags": [
+        "comfort",
+        "filling",
+        "energetic",
+        "happy"
+      ],
+      "available": true,
+      "rating": 4.6,
+      "portion": "large",
+      "description": "Crispy golden rice crepe stuffed with spiced potato masala, served with sambar and coconut chutney",
+      "protein_g": 8
+    },
+    {
+      "id": "SI002",
+      "name": "Plain Dosa",
+      "category": "South Indian",
+      "price": 30,
+      "calories": 200,
+      "prep_time_mins": 6,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "rice",
+        "lentils",
+        "oil"
+      ],
+      "mood_tags": [
+        "light",
+        "healthy",
+        "quick"
+      ],
+      "available": true,
+      "rating": 4.2,
+      "portion": "medium",
+      "description": "Thin crispy rice crepe, light on stomach, served with sambar and chutney",
+      "protein_g": 8
+    },
+    {
+      "id": "SI003",
+      "name": "Idli Sambar (3 pcs)",
+      "category": "South Indian",
+      "price": 35,
+      "calories": 280,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "rice",
+        "lentils",
+        "vegetables",
+        "spices"
+      ],
+      "mood_tags": [
+        "light",
+        "healthy",
+        "comfort",
+        "tired"
+      ],
+      "available": true,
+      "rating": 4.4,
+      "portion": "medium",
+      "description": "Soft steamed rice cakes with lentil vegetable soup, perfect light meal",
+      "protein_g": 13
+    },
+    {
+      "id": "SI004",
+      "name": "Medu Vada (2 pcs)",
+      "category": "South Indian",
+      "price": 30,
+      "calories": 260,
+      "prep_time_mins": 7,
+      "dietary_tags": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "lentils",
+        "oil",
+        "spices",
+        "curry leaves"
+      ],
+      "mood_tags": [
+        "snack",
+        "crispy",
+        "comfort"
+      ],
+      "available": true,
+      "rating": 4.3,
+      "portion": "small",
+      "description": "Crispy fried lentil donuts, crunchy outside, soft inside, served with chutney",
+      "protein_g": 13
+    },
+    {
+      "id": "SI005",
+      "name": "Uttapam",
+      "category": "South Indian",
+      "price": 40,
+      "calories": 300,
+      "prep_time_mins": 10,
+      "dietary_tags": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "rice",
+        "lentils",
+        "onion",
+        "tomato",
+        "green chilli"
+      ],
+      "mood_tags": [
+        "filling",
+        "comfort",
+        "warm"
+      ],
+      "available": true,
+      "rating": 4.1,
+      "portion": "medium",
+      "description": "Thick savoury pancake topped with vegetables, a filling South Indian favourite",
+      "protein_g": 8
+    },
+    {
+      "id": "NI001",
+      "name": "Chole Bhature",
+      "category": "North Indian",
+      "price": 65,
+      "calories": 620,
+      "prep_time_mins": 10,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "chickpeas",
+        "maida",
+        "oil",
+        "spices",
+        "onion",
+        "tomato"
+      ],
+      "mood_tags": [
+        "indulgent",
+        "filling",
+        "celebratory",
+        "hungry"
+      ],
+      "available": true,
+      "rating": 4.7,
+      "portion": "large",
+      "description": "Spicy tangy chickpea curry with fluffy deep-fried bread, a North Indian classic",
+      "protein_g": 16
+    },
+    {
+      "id": "NI002",
+      "name": "Rajma Chawal",
+      "category": "North Indian",
+      "price": 55,
+      "calories": 520,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "kidney beans",
+        "rice",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "mood_tags": [
+        "comfort",
+        "filling",
+        "energetic",
+        "tired"
+      ],
+      "available": true,
+      "rating": 4.5,
+      "portion": "large",
+      "description": "Hearty kidney bean curry served with steamed rice, the ultimate comfort food",
+      "protein_g": 15
+    },
+    {
+      "id": "NI003",
+      "name": "Dal Makhani + Roti (2)",
+      "category": "North Indian",
+      "price": 70,
+      "calories": 480,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian",
+        "gluten-free-option"
+      ],
+      "ingredients": [
+        "black lentils",
+        "butter",
+        "cream",
+        "spices",
+        "wheat flour"
+      ],
+      "mood_tags": [
+        "comfort",
+        "warm",
+        "celebratory",
+        "indulgent"
+      ],
+      "available": true,
+      "rating": 4.8,
+      "portion": "large",
+      "description": "Slow-cooked creamy black lentils, buttery and rich, with soft whole wheat rotis",
+      "protein_g": 13
+    },
+    {
+      "id": "NI004",
+      "name": "Paneer Butter Masala + Rice",
+      "category": "North Indian",
+      "price": 85,
+      "calories": 550,
+      "prep_time_mins": 7,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "paneer",
+        "butter",
+        "tomato",
+        "cream",
+        "spices",
+        "rice"
+      ],
+      "mood_tags": [
+        "indulgent",
+        "celebratory",
+        "hungry",
+        "comfort"
+      ],
+      "available": true,
+      "rating": 4.9,
+      "portion": "large",
+      "description": "Creamy tomato-based paneer curry with silky sauce, served with basmati rice",
+      "protein_g": 22
+    },
+    {
+      "id": "NI005",
+      "name": "Aloo Paratha + Curd",
+      "category": "North Indian",
+      "price": 50,
+      "calories": 420,
+      "prep_time_mins": 8,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "wheat flour",
+        "potato",
+        "spices",
+        "butter",
+        "curd"
+      ],
+      "mood_tags": [
+        "comfort",
+        "filling",
+        "warm",
+        "tired"
+      ],
+      "available": true,
+      "rating": 4.4,
+      "portion": "medium",
+      "description": "Stuffed spiced potato flatbread with creamy yogurt, a wholesome Indian staple",
+      "protein_g": 15
+    },
+    {
+      "id": "NI006",
+      "name": "Veg Biryani",
+      "category": "North Indian",
+      "price": 75,
+      "calories": 580,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "basmati rice",
+        "mixed vegetables",
+        "saffron",
+        "spices",
+        "fried onion"
+      ],
+      "mood_tags": [
+        "celebratory",
+        "indulgent",
+        "filling",
+        "happy"
+      ],
+      "available": true,
+      "rating": 4.6,
+      "portion": "large",
+      "description": "Fragrant layered basmati rice with vegetables and aromatic spices, served with raita",
+      "protein_g": 11
+    },
+    {
+      "id": "CH001",
+      "name": "Veg Fried Rice",
+      "category": "Chinese",
+      "price": 60,
+      "calories": 450,
+      "prep_time_mins": 8,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan"
+      ],
+      "ingredients": [
+        "rice",
+        "mixed vegetables",
+        "soy sauce",
+        "oil",
+        "spring onion"
+      ],
+      "mood_tags": [
+        "comfort",
+        "filling",
+        "quick",
+        "happy"
+      ],
+      "available": true,
+      "rating": 4.3,
+      "portion": "large",
+      "description": "Wok-tossed rice with colourful vegetables and soy sauce, Indo-Chinese style",
+      "protein_g": 16
+    },
+    {
+      "id": "CH002",
+      "name": "Veg Noodles (Hakka)",
+      "category": "Chinese",
+      "price": 60,
+      "calories": 420,
+      "prep_time_mins": 8,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan"
+      ],
+      "ingredients": [
+        "noodles",
+        "mixed vegetables",
+        "soy sauce",
+        "vinegar",
+        "oil"
+      ],
+      "mood_tags": [
+        "comfort",
+        "quick",
+        "happy",
+        "energetic"
+      ],
+      "available": true,
+      "rating": 4.2,
+      "portion": "large",
+      "description": "Stir-fried noodles with vegetables in a tangy soy-vinegar sauce",
+      "protein_g": 7
+    },
+    {
+      "id": "CH003",
+      "name": "Veg Manchurian Dry",
+      "category": "Chinese",
+      "price": 55,
+      "calories": 320,
+      "prep_time_mins": 10,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan"
+      ],
+      "ingredients": [
+        "cabbage",
+        "carrot",
+        "cornflour",
+        "soy sauce",
+        "garlic",
+        "chilli"
+      ],
+      "mood_tags": [
+        "spicy",
+        "snack",
+        "happy",
+        "energetic"
+      ],
+      "available": true,
+      "rating": 4.5,
+      "portion": "medium",
+      "description": "Crispy vegetable balls tossed in spicy tangy Manchurian sauce",
+      "protein_g": 11
+    },
+    {
+      "id": "CH004",
+      "name": "Paneer Chilli Dry",
+      "category": "Chinese",
+      "price": 70,
+      "calories": 380,
+      "prep_time_mins": 10,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "paneer",
+        "capsicum",
+        "onion",
+        "soy sauce",
+        "chilli",
+        "cornflour"
+      ],
+      "mood_tags": [
+        "spicy",
+        "indulgent",
+        "celebratory",
+        "energetic"
+      ],
+      "available": true,
+      "rating": 4.6,
+      "portion": "medium",
+      "description": "Tender paneer cubes with capsicum in fiery chilli sauce, an Indo-Chinese favourite",
+      "protein_g": 22
+    },
+    {
+      "id": "CH005",
+      "name": "Spring Rolls (3 pcs)",
+      "category": "Chinese",
+      "price": 45,
+      "calories": 280,
+      "prep_time_mins": 7,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan"
+      ],
+      "ingredients": [
+        "maida",
+        "cabbage",
+        "carrot",
+        "spring onion",
+        "oil"
+      ],
+      "mood_tags": [
+        "snack",
+        "crispy",
+        "light",
+        "quick"
+      ],
+      "available": true,
+      "rating": 4.0,
+      "portion": "small",
+      "description": "Crispy fried rolls stuffed with vegetables, served with sweet chilli dip",
+      "protein_g": 10
+    },
+    {
+      "id": "SN001",
+      "name": "Samosa (2 pcs)",
+      "category": "Snacks",
+      "price": 20,
+      "calories": 240,
+      "prep_time_mins": 2,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan"
+      ],
+      "ingredients": [
+        "maida",
+        "potato",
+        "peas",
+        "spices",
+        "oil"
+      ],
+      "mood_tags": [
+        "snack",
+        "comfort",
+        "quick",
+        "cheap"
+      ],
+      "available": true,
+      "rating": 4.5,
+      "portion": "small",
+      "description": "Crispy fried pastry cones stuffed with spiced potato-pea filling, an all-time classic",
+      "protein_g": 5
+    },
+    {
+      "id": "SN002",
+      "name": "Aloo Tikki (2 pcs)",
+      "category": "Snacks",
+      "price": 25,
+      "calories": 220,
+      "prep_time_mins": 3,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "potato",
+        "spices",
+        "oil",
+        "coriander"
+      ],
+      "mood_tags": [
+        "snack",
+        "comfort",
+        "spicy",
+        "cheap"
+      ],
+      "available": true,
+      "rating": 4.3,
+      "portion": "small",
+      "description": "Spiced potato patties shallow fried to golden, served with mint and tamarind chutney",
+      "protein_g": 8
+    },
+    {
+      "id": "SN003",
+      "name": "Pav Bhaji",
+      "category": "Snacks",
+      "price": 50,
+      "calories": 450,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "mixed vegetables",
+        "butter",
+        "pav bread",
+        "spices",
+        "onion",
+        "lemon"
+      ],
+      "mood_tags": [
+        "comfort",
+        "indulgent",
+        "filling",
+        "happy",
+        "celebratory"
+      ],
+      "available": true,
+      "rating": 4.7,
+      "portion": "medium",
+      "description": "Buttery spiced vegetable mash served with toasted buttered buns, a Mumbai street food legend",
+      "protein_g": 16
+    },
+    {
+      "id": "SN004",
+      "name": "Bread Sandwich (Grilled)",
+      "category": "Snacks",
+      "price": 30,
+      "calories": 280,
+      "prep_time_mins": 4,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "bread",
+        "potato",
+        "cucumber",
+        "tomato",
+        "butter",
+        "chutney"
+      ],
+      "mood_tags": [
+        "quick",
+        "light",
+        "cheap",
+        "comfort"
+      ],
+      "available": true,
+      "rating": 4.0,
+      "portion": "medium",
+      "description": "Toasted bread with veggie filling and green chutney, quick and satisfying",
+      "protein_g": 16
+    },
+    {
+      "id": "SN005",
+      "name": "Vada Pav",
+      "category": "Snacks",
+      "price": 20,
+      "calories": 290,
+      "prep_time_mins": 3,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan"
+      ],
+      "ingredients": [
+        "potato",
+        "pav bread",
+        "garlic chutney",
+        "oil",
+        "spices"
+      ],
+      "mood_tags": [
+        "quick",
+        "cheap",
+        "comfort",
+        "filling",
+        "hungry"
+      ],
+      "available": true,
+      "rating": 4.6,
+      "portion": "small",
+      "description": "Mumbai's iconic street food \u2014 spiced potato fritter in a soft bun with fiery garlic chutney",
+      "protein_g": 7
+    },
+    {
+      "id": "SN006",
+      "name": "Pani Puri (6 pcs)",
+      "category": "Snacks",
+      "price": 25,
+      "calories": 150,
+      "prep_time_mins": 3,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "semolina",
+        "potato",
+        "chickpeas",
+        "tamarind water",
+        "spices"
+      ],
+      "mood_tags": [
+        "tangy",
+        "light",
+        "fun",
+        "happy",
+        "celebratory"
+      ],
+      "available": true,
+      "rating": 4.8,
+      "portion": "small",
+      "description": "Crispy hollow balls filled with spiced potato and tangy flavoured water, explosively tasty",
+      "protein_g": 5
+    },
+    {
+      "id": "SN007",
+      "name": "Poha",
+      "category": "Snacks",
+      "price": 25,
+      "calories": 200,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "flattened rice",
+        "onion",
+        "mustard seeds",
+        "turmeric",
+        "peanuts"
+      ],
+      "mood_tags": [
+        "light",
+        "quick",
+        "healthy",
+        "tired",
+        "morning"
+      ],
+      "available": true,
+      "rating": 4.1,
+      "portion": "medium",
+      "description": "Light flattened rice with peanuts and spices, a healthy filling snack",
+      "protein_g": 7
+    },
+    {
+      "id": "SN008",
+      "name": "Maggi Noodles",
+      "category": "Snacks",
+      "price": 30,
+      "calories": 320,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "noodles",
+        "masala",
+        "water",
+        "vegetables"
+      ],
+      "mood_tags": [
+        "comfort",
+        "quick",
+        "stressed",
+        "nostalgic"
+      ],
+      "available": true,
+      "rating": 4.4,
+      "portion": "medium",
+      "description": "Iconic instant noodles in spicy masala broth \u2014 the ultimate student comfort food",
+      "protein_g": 7
+    },
+    {
+      "id": "SN009",
+      "name": "Bhel Puri",
+      "category": "Snacks",
+      "price": 25,
+      "calories": 180,
+      "prep_time_mins": 3,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan"
+      ],
+      "ingredients": [
+        "puffed rice",
+        "sev",
+        "potato",
+        "tomato",
+        "chutney",
+        "onion"
+      ],
+      "mood_tags": [
+        "light",
+        "tangy",
+        "snack",
+        "quick",
+        "happy"
+      ],
+      "available": true,
+      "rating": 4.2,
+      "portion": "small",
+      "description": "Crunchy puffed rice tossed with veggies, sev, and sweet-tangy chutneys",
+      "protein_g": 16
+    },
+    {
+      "id": "SN010",
+      "name": "French Fries",
+      "category": "Snacks",
+      "price": 40,
+      "calories": 380,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "potato",
+        "oil",
+        "salt",
+        "seasoning"
+      ],
+      "mood_tags": [
+        "indulgent",
+        "comfort",
+        "snack",
+        "happy"
+      ],
+      "available": true,
+      "rating": 4.1,
+      "portion": "medium",
+      "description": "Golden crispy fries seasoned with chaat masala and served with ketchup",
+      "protein_g": 13
+    },
+    {
+      "id": "HE001",
+      "name": "Fruit Salad Bowl",
+      "category": "Healthy",
+      "price": 45,
+      "calories": 140,
+      "prep_time_mins": 2,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "seasonal fruits",
+        "honey",
+        "lemon"
+      ],
+      "mood_tags": [
+        "healthy",
+        "light",
+        "refreshing",
+        "happy",
+        "energetic"
+      ],
+      "available": true,
+      "rating": 4.0,
+      "portion": "medium",
+      "description": "Fresh seasonal fruits with honey and lemon, a refreshing healthy snack",
+      "protein_g": 14
+    },
+    {
+      "id": "HE002",
+      "name": "Sprout Chaat",
+      "category": "Healthy",
+      "price": 35,
+      "calories": 180,
+      "prep_time_mins": 3,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "mixed sprouts",
+        "tomato",
+        "onion",
+        "lemon",
+        "spices"
+      ],
+      "mood_tags": [
+        "healthy",
+        "light",
+        "protein",
+        "energetic"
+      ],
+      "available": true,
+      "rating": 3.9,
+      "portion": "medium",
+      "description": "Protein-packed mixed sprouts with veggies and spicy chaat dressing",
+      "protein_g": 16
+    },
+    {
+      "id": "HE003",
+      "name": "Corn Chaat",
+      "category": "Healthy",
+      "price": 35,
+      "calories": 190,
+      "prep_time_mins": 3,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "sweet corn",
+        "butter",
+        "chaat masala",
+        "lemon"
+      ],
+      "mood_tags": [
+        "light",
+        "snack",
+        "healthy",
+        "refreshing"
+      ],
+      "available": true,
+      "rating": 4.2,
+      "portion": "medium",
+      "description": "Buttery sweet corn with chaat masala and lemon, light and satisfying",
+      "protein_g": 7
+    },
+    {
+      "id": "HE004",
+      "name": "Green Salad",
+      "category": "Healthy",
+      "price": 30,
+      "calories": 80,
+      "prep_time_mins": 2,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "cucumber",
+        "tomato",
+        "carrot",
+        "onion",
+        "lemon",
+        "salt"
+      ],
+      "mood_tags": [
+        "healthy",
+        "light",
+        "diet",
+        "refreshing"
+      ],
+      "available": true,
+      "rating": 3.7,
+      "portion": "medium",
+      "description": "Fresh chopped vegetables with lemon and salt, crisp and refreshing",
+      "protein_g": 14
+    },
+    {
+      "id": "HE005",
+      "name": "Oats Upma",
+      "category": "Healthy",
+      "price": 40,
+      "calories": 220,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "oats",
+        "vegetables",
+        "mustard",
+        "curry leaves",
+        "spices"
+      ],
+      "mood_tags": [
+        "healthy",
+        "light",
+        "energetic",
+        "morning"
+      ],
+      "available": true,
+      "rating": 3.8,
+      "portion": "medium",
+      "description": "Nutritious savoury oats cooked with vegetables, a healthy power meal",
+      "protein_g": 8
+    },
+    {
+      "id": "BV001",
+      "name": "Masala Chai",
+      "category": "Beverages",
+      "price": 15,
+      "calories": 90,
+      "prep_time_mins": 3,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "tea",
+        "milk",
+        "ginger",
+        "cardamom",
+        "sugar"
+      ],
+      "mood_tags": [
+        "warm",
+        "comfort",
+        "tired",
+        "stressed",
+        "morning"
+      ],
+      "available": true,
+      "rating": 4.7,
+      "portion": "small",
+      "description": "Aromatic spiced milk tea with ginger and cardamom, the ultimate pick-me-up",
+      "protein_g": 3
+    },
+    {
+      "id": "BV002",
+      "name": "Cold Coffee",
+      "category": "Beverages",
+      "price": 35,
+      "calories": 180,
+      "prep_time_mins": 3,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "coffee",
+        "milk",
+        "ice cream",
+        "sugar",
+        "ice"
+      ],
+      "mood_tags": [
+        "energetic",
+        "refreshing",
+        "celebratory",
+        "happy"
+      ],
+      "available": true,
+      "rating": 4.5,
+      "portion": "medium",
+      "description": "Chilled blended coffee with ice cream, energising and indulgent",
+      "protein_g": 3
+    },
+    {
+      "id": "BV003",
+      "name": "Lassi (Sweet)",
+      "category": "Beverages",
+      "price": 30,
+      "calories": 200,
+      "prep_time_mins": 2,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "curd",
+        "sugar",
+        "cardamom"
+      ],
+      "mood_tags": [
+        "refreshing",
+        "comfort",
+        "filling",
+        "happy"
+      ],
+      "available": true,
+      "rating": 4.4,
+      "portion": "medium",
+      "description": "Thick creamy sweet yogurt drink, cooling and refreshing",
+      "protein_g": 3
+    },
+    {
+      "id": "BV004",
+      "name": "Buttermilk (Chaas)",
+      "category": "Beverages",
+      "price": 15,
+      "calories": 60,
+      "prep_time_mins": 1,
+      "dietary_tags": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "curd",
+        "water",
+        "salt",
+        "cumin",
+        "coriander"
+      ],
+      "mood_tags": [
+        "light",
+        "refreshing",
+        "healthy",
+        "stressed"
+      ],
+      "available": true,
+      "rating": 4.1,
+      "portion": "medium",
+      "description": "Cooling spiced yogurt drink, great for digestion and hot days",
+      "protein_g": 3
+    },
+    {
+      "id": "BV005",
+      "name": "Fresh Lime Soda",
+      "category": "Beverages",
+      "price": 25,
+      "calories": 50,
+      "prep_time_mins": 2,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "lime",
+        "soda",
+        "sugar",
+        "salt"
+      ],
+      "mood_tags": [
+        "refreshing",
+        "light",
+        "tangy",
+        "energetic"
+      ],
+      "available": true,
+      "rating": 4.3,
+      "portion": "medium",
+      "description": "Zesty fresh lime soda \u2014 sweet, salty, or both \u2014 the perfect refresher",
+      "protein_g": 3
+    },
+    {
+      "id": "BV006",
+      "name": "Mango Shake",
+      "category": "Beverages",
+      "price": 40,
+      "calories": 250,
+      "prep_time_mins": 3,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "mango",
+        "milk",
+        "sugar",
+        "ice cream"
+      ],
+      "mood_tags": [
+        "indulgent",
+        "happy",
+        "celebratory",
+        "refreshing"
+      ],
+      "available": true,
+      "rating": 4.8,
+      "portion": "medium",
+      "description": "Thick creamy mango milkshake, fruity and indulgent",
+      "protein_g": 3
+    },
+    {
+      "id": "BV007",
+      "name": "Plain Water Bottle (1L)",
+      "category": "Beverages",
+      "price": 20,
+      "calories": 0,
+      "prep_time_mins": 1,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "water"
+      ],
+      "mood_tags": [
+        "light",
+        "healthy"
+      ],
+      "available": true,
+      "rating": 5.0,
+      "portion": "large",
+      "description": "Chilled packaged water",
+      "protein_g": 3
+    },
+    {
+      "id": "DS001",
+      "name": "Gulab Jamun (2 pcs)",
+      "category": "Desserts",
+      "price": 30,
+      "calories": 320,
+      "prep_time_mins": 2,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "milk powder",
+        "maida",
+        "sugar syrup",
+        "cardamom"
+      ],
+      "mood_tags": [
+        "sweet",
+        "indulgent",
+        "celebratory",
+        "happy",
+        "comfort"
+      ],
+      "available": true,
+      "rating": 4.6,
+      "portion": "small",
+      "description": "Soft milk-solid dumplings soaked in rose-cardamom sugar syrup",
+      "protein_g": 11
+    },
+    {
+      "id": "DS002",
+      "name": "Rasgulla (2 pcs)",
+      "category": "Desserts",
+      "price": 30,
+      "calories": 240,
+      "prep_time_mins": 2,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "paneer",
+        "sugar syrup"
+      ],
+      "mood_tags": [
+        "sweet",
+        "light",
+        "comfort",
+        "celebratory"
+      ],
+      "available": true,
+      "rating": 4.4,
+      "portion": "small",
+      "description": "Spongy cottage cheese balls soaked in light sugar syrup",
+      "protein_g": 8
+    },
+    {
+      "id": "DS003",
+      "name": "Chocolate Brownie",
+      "category": "Desserts",
+      "price": 40,
+      "calories": 350,
+      "prep_time_mins": 1,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "cocoa",
+        "flour",
+        "butter",
+        "sugar",
+        "eggs"
+      ],
+      "mood_tags": [
+        "indulgent",
+        "stressed",
+        "comfort",
+        "sweet",
+        "celebratory"
+      ],
+      "available": true,
+      "rating": 4.7,
+      "portion": "small",
+      "description": "Dense fudgy chocolate brownie, the ultimate stress-buster sweet treat",
+      "protein_g": 12
+    },
+    {
+      "id": "DS004",
+      "name": "Kulfi (Malai)",
+      "category": "Desserts",
+      "price": 25,
+      "calories": 200,
+      "prep_time_mins": 1,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "milk",
+        "cream",
+        "sugar",
+        "cardamom",
+        "nuts"
+      ],
+      "mood_tags": [
+        "refreshing",
+        "indulgent",
+        "happy",
+        "sweet"
+      ],
+      "available": true,
+      "rating": 4.5,
+      "portion": "small",
+      "description": "Traditional Indian ice cream on a stick, dense and rich with nuts",
+      "protein_g": 7
+    },
+    {
+      "id": "DS005",
+      "name": "Halwa (Suji)",
+      "category": "Desserts",
+      "price": 25,
+      "calories": 280,
+      "prep_time_mins": 3,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "semolina",
+        "ghee",
+        "sugar",
+        "cardamom",
+        "dry fruits"
+      ],
+      "mood_tags": [
+        "warm",
+        "comfort",
+        "sweet",
+        "tired"
+      ],
+      "available": true,
+      "rating": 4.2,
+      "portion": "medium",
+      "description": "Warm semolina pudding with ghee, sugar and dry fruits \u2014 a classic dessert",
+      "protein_g": 10
+    },
+    {
+      "id": "CO001",
+      "name": "Thali (Full Veg)",
+      "category": "Combos",
+      "price": 90,
+      "calories": 900,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "dal",
+        "sabzi",
+        "rice",
+        "roti",
+        "curd",
+        "pickle",
+        "papad"
+      ],
+      "mood_tags": [
+        "filling",
+        "comfort",
+        "hungry",
+        "celebratory",
+        "energetic"
+      ],
+      "available": true,
+      "rating": 4.8,
+      "portion": "extra-large",
+      "description": "Complete Indian meal \u2014 2 veggies, dal, rice, 3 rotis, curd, pickle and papad",
+      "protein_g": 16
+    },
+    {
+      "id": "CO002",
+      "name": "Student Combo (Snack + Chai)",
+      "category": "Combos",
+      "price": 30,
+      "calories": 380,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "samosa",
+        "tea",
+        "milk",
+        "spices"
+      ],
+      "mood_tags": [
+        "quick",
+        "cheap",
+        "comfort",
+        "tired",
+        "stressed"
+      ],
+      "available": true,
+      "rating": 4.5,
+      "portion": "medium",
+      "description": "2 hot samosas + masala chai \u2014 the classic student combo",
+      "protein_g": 20
+    },
+    {
+      "id": "CO003",
+      "name": "Meal Combo (Rice + Dal + Sabzi)",
+      "category": "Combos",
+      "price": 65,
+      "calories": 700,
+      "prep_time_mins": 5,
+      "dietary_tags": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "rice",
+        "lentils",
+        "seasonal vegetable",
+        "spices"
+      ],
+      "mood_tags": [
+        "filling",
+        "comfort",
+        "tired",
+        "hungry",
+        "healthy"
+      ],
+      "available": true,
+      "rating": 4.4,
+      "portion": "large",
+      "description": "Simple wholesome combo \u2014 steamed rice with dal and seasonal vegetable curry",
+      "protein_g": 13
+    },
+    {
+      "id": "CO004",
+      "name": "Juice + Sandwich Combo",
+      "category": "Combos",
+      "price": 55,
+      "calories": 350,
+      "prep_time_mins": 4,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "bread",
+        "vegetables",
+        "butter",
+        "fruit juice"
+      ],
+      "mood_tags": [
+        "light",
+        "healthy",
+        "quick",
+        "energetic",
+        "morning"
+      ],
+      "available": true,
+      "rating": 4.0,
+      "portion": "medium",
+      "description": "Grilled veggie sandwich with a glass of fresh fruit juice",
+      "protein_g": 16
+    },
+    {
+      "id": "CO005",
+      "name": "Noodles + Cold Coffee Combo",
+      "category": "Combos",
+      "price": 85,
+      "calories": 600,
+      "prep_time_mins": 8,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "noodles",
+        "vegetables",
+        "coffee",
+        "milk",
+        "ice"
+      ],
+      "mood_tags": [
+        "happy",
+        "energetic",
+        "quick",
+        "celebratory"
+      ],
+      "available": true,
+      "rating": 4.3,
+      "portion": "large",
+      "description": "Hakka noodles paired with cold coffee \u2014 a student favourite combo",
+      "protein_g": 20
+    },
+    {
+      "id": "SP001",
+      "name": "Paneer Tikka",
+      "category": "Specials",
+      "price": 80,
+      "calories": 380,
+      "prep_time_mins": 12,
+      "dietary_tags": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "paneer",
+        "capsicum",
+        "onion",
+        "yogurt",
+        "spices"
+      ],
+      "mood_tags": [
+        "spicy",
+        "indulgent",
+        "celebratory",
+        "protein",
+        "happy"
+      ],
+      "available": true,
+      "rating": 4.9,
+      "portion": "medium",
+      "description": "Marinated paneer cubes grilled with peppers and onion in tangy spicy marinade",
+      "protein_g": 22
+    },
+    {
+      "id": "SP002",
+      "name": "Hara Bhara Kebab (4 pcs)",
+      "category": "Specials",
+      "price": 60,
+      "calories": 280,
+      "prep_time_mins": 10,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "spinach",
+        "peas",
+        "potato",
+        "spices"
+      ],
+      "mood_tags": [
+        "healthy",
+        "protein",
+        "light",
+        "energetic"
+      ],
+      "available": true,
+      "rating": 4.3,
+      "portion": "medium",
+      "description": "Nutritious spinach-pea patties with mild spices, healthy and delicious",
+      "protein_g": 10
+    },
+    {
+      "id": "SP003",
+      "name": "Stuffed Capsicum",
+      "category": "Specials",
+      "price": 70,
+      "calories": 320,
+      "prep_time_mins": 12,
+      "dietary_tags": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "capsicum",
+        "paneer",
+        "rice",
+        "spices"
+      ],
+      "mood_tags": [
+        "light",
+        "healthy",
+        "comfort",
+        "unique"
+      ],
+      "available": false,
+      "rating": 4.1,
+      "portion": "medium",
+      "description": "Bell peppers stuffed with spiced paneer-rice mixture, baked to perfection",
+      "protein_g": 22
+    },
+    {
+      "id": "SP004",
+      "name": "Dal Soup",
+      "category": "Specials",
+      "price": 30,
+      "calories": 120,
+      "prep_time_mins": 3,
+      "dietary_tags": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "ingredients": [
+        "lentils",
+        "vegetables",
+        "spices",
+        "lemon"
+      ],
+      "mood_tags": [
+        "light",
+        "healthy",
+        "warm",
+        "tired",
+        "sick",
+        "stressed"
+      ],
+      "available": true,
+      "rating": 4.0,
+      "portion": "medium",
+      "description": "Light lentil soup with vegetables and lemon, soothing and nutritious",
+      "protein_g": 13
+    },
+    {
+      "id": "SP005",
+      "name": "Paneer Wrap",
+      "category": "Specials",
+      "price": 65,
+      "calories": 420,
+      "prep_time_mins": 7,
+      "dietary_tags": [
+        "vegetarian"
+      ],
+      "ingredients": [
+        "roti",
+        "paneer",
+        "capsicum",
+        "onion",
+        "chutney",
+        "lettuce"
+      ],
+      "mood_tags": [
+        "quick",
+        "filling",
+        "comfort",
+        "happy",
+        "energetic"
+      ],
+      "available": true,
+      "rating": 4.5,
+      "portion": "medium",
+      "description": "Grilled paneer with veggies wrapped in a soft roti with green chutney",
+      "protein_g": 22
+    }
+  ]
+}
